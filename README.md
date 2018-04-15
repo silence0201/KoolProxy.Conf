@@ -1,0 +1,2 @@
+# KoolProxy.Conf
+KoolProxy.Conf
